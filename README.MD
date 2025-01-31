@@ -1,6 +1,6 @@
 <h1>Open setup.bat to install!</h1>
 
-<h3>Download: https://github.com/vitorserveja/javaMinecraftBoost/archive/refs/heads/main.zip </h3>
+<h3><strong>Download: https://github.com/vitorserveja/javaMinecraftBoost/archive/refs/heads/main.zip<strong></h3>
 
 All rights and credits reserved to:
 
