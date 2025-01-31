@@ -10,5 +10,5 @@ VulkanMod: https://www.curseforge.com/minecraft/mc-mods/vulkanmod
 
 be a nice guy
 
-https://discord.gg/uVc3cBKSk5
+https://discord.gg/uVc3cBKSk5<p>
 @geforcedasilva
