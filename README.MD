@@ -1,4 +1,4 @@
-<h1>open setup.bat to install!<\h1>
+<h1>Open setup.bat to install!</h1>
 
 All rights and credits reserved to:
 
