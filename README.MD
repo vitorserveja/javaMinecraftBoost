@@ -1,5 +1,7 @@
 <h1>Open setup.bat to install!</h1>
 
+<h1>Download: https://github.com/vitorserveja/javaMinecraftBoost/archive/refs/heads/main.zip </h1>
+
 All rights and credits reserved to:
 
 Fabric: https://fabricmc.net/ <p>
