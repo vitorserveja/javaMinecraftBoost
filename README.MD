@@ -2,7 +2,7 @@
 
 <h3>Download: https://github.com/vitorserveja/javaMinecraftBoost/archive/refs/heads/main.zip ⬇️</h3>
 
-<p>All rights and credits reserved to:
+All rights and credits reserved to:
 
 Fabric: https://fabricmc.net/ <p>
 Sodium: https://www.curseforge.com/minecraft/mc-mods/sodium <p>
