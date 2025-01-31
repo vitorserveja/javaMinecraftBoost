@@ -1,9 +1,9 @@
-open setup.bat to install!
+<h1>open setup.bat to install!<\h1>
 
 All rights and credits reserved to:
 
-Fabric: https://fabricmc.net/
-Sodium: https://www.curseforge.com/minecraft/mc-mods/sodium
+Fabric: https://fabricmc.net/ <p>
+Sodium: https://www.curseforge.com/minecraft/mc-mods/sodium <p>
 VulkanMod: https://www.curseforge.com/minecraft/mc-mods/vulkanmod
 
 be a nice guy
